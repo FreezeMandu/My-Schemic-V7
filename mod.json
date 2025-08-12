@@ -1,9 +1,9 @@
 {
     "name": "my-schemic-v7",
     "displayName": "My Schematic V7",
-    "description": "일단 돌아가면 문제 없다고 하는 설계 못하는 한 유저가 만든 설계도들.",
+    "description": "일단 돌아가면 문제 없다고 하는 설계 못하는 한 유저가 만든 설계도들. 서버에서 복사한 출처 불명의 로직 포함.",
     "minGameVersion": 146,
-    "version": 1.0,
+    "version": "1.0.1",
     "author": "Mandu",
     "hidden": true
 }
